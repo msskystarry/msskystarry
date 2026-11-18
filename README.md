@@ -36,8 +36,8 @@ Multi-Stack Developer from South Korea 🇰🇷
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmintf&show_icons=true&theme=dark&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmintf&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=msskystarry&show_icons=true&theme=dark&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msskystarry&layout=compact&theme=dark" height="150"/>
 </div>
 
 ## 🔗 Connect with Me
@@ -54,5 +54,5 @@ Multi-Stack Developer from South Korea 🇰🇷
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vmintf/vmintf/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/msskystarry/msskystarry/output/snake.svg" alt="Snake animation" />
 </div>
